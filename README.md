@@ -1,16 +1,13 @@
-## Hi there 👋
+## h_z13
 
-<!--
-**techmaster2013/techmaster2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working on school and a little side project named [GamePlaza](techmaster2013.github.io).
 
-Here are some ideas to get you started:
+I'm fairly new to coding and GitHub and all this stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I live in "NYC". Quotes because people dont recognise Staten Island as a part of NYC.
+
+I firmly support Right to Repair.
+
+Hobbys I have are coding, fixing numerous devices, tinkering with your next door RPI.
+
+I am a human being. And male too.
