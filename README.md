@@ -1,6 +1,6 @@
 ## h_z13
 
-I'm working on school and a little side project named [GamePlaza](techmaster2013.github.io).
+I'm working on school and a little side project named [GamePlaza](https://techmaster2013.github.io).
 
 I'm fairly new to coding and GitHub and all this stuff.
 
