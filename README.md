@@ -1,6 +1,6 @@
 # techmaster2013 (or h_z13)
 
-### I'm currently working on school and 2 projects: [GamePlaza](techmaster2013.github.io/GamePlaza), and [nexSite](https://nexsite-alpha.vercel.app).
+### I'm currently working on school and 2 projects (when I havee time): [GamePlaza](techmaster2013.github.io/GamePlaza), and [nexSite](https://nexsite-alpha.vercel.app).
 
 - I'm still a bit new to coding.
 
