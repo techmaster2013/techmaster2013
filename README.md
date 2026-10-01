@@ -1,4 +1,4 @@
-## techmaster2013
+# techmaster2013
 
 I'm currently working on school and 2 projects: [GamePlaza](techmaster2013.github.io/GamePlaza), and [nexSite](https://nexsite-alpha.vercel.app).
 
