@@ -17,6 +17,6 @@ I use a 2017 MacBook Air 2017 running Zorin OS but I usually code on the school 
 #### javascript
 ```js
 print("
-hey, its 10 pm, do you know where your const is?
+**hey, its 10 pm, do you know where your const is?**
 ");
 ```
