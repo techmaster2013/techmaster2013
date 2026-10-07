@@ -1,6 +1,6 @@
 # techmaster2013 (or h_z13)
 
-### I'm currently working on school and 2 projects (when I havee time): [nexOS-debian](https://github.com/techmaster2013/nexOS-debian), and [mmg](https://github.com/techmaster2013/mmg).
+### I'm currently working on school and 2 projects (when I have time): [nexOS](https://github.com/techmaster2013/nexOS), and [mmg](https://github.com/techmaster2013/mmg).
 
 - I'm still a *little* new to coding.
 
