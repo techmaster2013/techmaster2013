@@ -1,6 +1,6 @@
 # techmaster2013 (or h_z13)
 
-### I'm currently working on school and a couple projects (when I have time): [vexel](https://github.com/techmaster2013/vexel), and [ipados-rpi5](https://github.com/techmaster2013/ipados/rpi5).
+### I'm currently working on school and a couple projects (when I have time): [vexel](https://github.com/techmaster2013/vexel), and [ipados-rpi5](https://github.com/techmaster2013/ipados-rpi5).
 
 - I'm still a *little* new to coding.
 
