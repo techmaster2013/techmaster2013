@@ -1,6 +1,6 @@
 # techmaster2013 (or h_z13)
 
-### I'm currently working on school and 2 projects (when I have time): [nexOS](https://github.com/techmaster2013/nexOS), and [mmg](https://github.com/techmaster2013/mmg).
+### I'm currently working on school and a couple projects (when I have time): [vexel](https://github.com/techmaster2013/vexel), and [ipados-rpi5](https://github.com/techmaster2013/ipados/rpi5).
 
 - I'm still a *little* new to coding.
 
@@ -8,17 +8,17 @@
 
 - I mostly vibe-code bc I'm lazy :p
 
-- Hobbies I have are coding, fixing devices, tinkering with HTML and localhost:0826 (no, not 826).
+- Hobbies I have are coding, fixing devices, tinkering with HTML and things that shouldnt work but do
 
-- I am a demiboy.
+- I'm a demiboy 💙
 
-- I use a 2017 MacBook Air 2017 running Zorin OS but I usually code on the school Chromebooks or my 2012 MacBook Pro running Catalina :D
+- I use a Lenovo IdeaPad 5-in-1 (i usually call it ideabook tho) dualbooting windows and fedora :D
 
-- I support Palestine.
+- I support Palestine
 
 #### javascript
 ```js
 print("
-hey, its 10 pm, do you know where your js files are/?
+hey, its 10 pm, do you know where your children are/?
 ");
 ```
